@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: bank_services_app.BankServicesAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.573 s -- in bank_services_app.BankServicesAppApplicationTests
